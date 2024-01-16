@@ -49,6 +49,10 @@ h1 {
     width: 50%;
     margin: 5px 5px 0;
 }
+.top, .center, .bottom{
+    float: right;
+    width: 20%;
+}
 img {
     width: 100%;
 }
