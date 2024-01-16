@@ -48,8 +48,10 @@ h1 {
     float: right;
     width: 50%;
     margin: 5px 5px 0;
+    border: 1px solid #eedb00;
+    border-radius: 0 0 15px 15px;
 }
-.right h2{
+h3{
     text-align: center;
 }
 img {
@@ -61,15 +63,8 @@ img {
     line-height: 1.4;
     text-align: justify;
 }
-.right  {
-    float: right;
-    width: 50%;
-    margin: 5px 5px 0;
-    border: 1px solid #eedb00;
-    border-radius: 0 0 15px 15px;
-}
 .right img {
-    width: 35%;
+    width: 33%;
     float: left;
     margin: 0.15%;
 }
